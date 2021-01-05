@@ -1,0 +1,24 @@
+{
+  "name": "ig-economy",
+  "version": "1.0.0",
+  "description": "A Discord Economy Bot with tons of commands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGRohan/DiscordEconomyBot.git"
+  },
+  "author": "IGRohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IGRohan/DiscordEconomyBot/issues"
+  },
+  "homepage": "https://github.com/IGRohan/DiscordEconomyBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  }
+}
